@@ -130,7 +130,7 @@ If there are multiple animals with the same highest count, return the one that a
 #### Example
 
 ```js
-getMostCommonAnimal(animals, 5);
+getMostCommonAnimal(animals);
 //> [
 //>   { kind: "Pig", count: 5 },
 //>   { kind: "Cow", count: 7 },
